@@ -15,4 +15,5 @@ function div(num1, num2){
     return result;
 }
 
-module.exports = {suma, rest, mult, div};
+export {suma, rest, mult, div};
+//module.exports = { suma, rest, mult, div};//
